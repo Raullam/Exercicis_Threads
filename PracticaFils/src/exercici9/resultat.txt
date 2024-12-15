@@ -1,0 +1,5 @@
+La vocal 'a' apareix 1 vegades.
+La vocal 'u' apareix 0 vegades.
+La vocal 'i' apareix 0 vegades.
+La vocal 'e' apareix 0 vegades.
+La vocal 'o' apareix 1 vegades.
